@@ -1,0 +1,7 @@
+Batch_*_batch_results.csv
+
+samples/*.csv
+old/*.csv
+
+results/*/
+old/*/
