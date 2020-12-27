@@ -1,3 +1,3 @@
 # mturk-eval
 
-evaluation of generated responses
+mturk evaluation of generated responses

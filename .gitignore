@@ -6,4 +6,4 @@ old/*.csv
 results/*/
 old/*/
 
-concat/
+results/concat/
